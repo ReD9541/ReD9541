@@ -86,13 +86,6 @@ A movie listing app consuming TMDB API.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RD9541&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 </p>
 
-> Optionally, customize these stats via: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## Spotify Activity (Optional)
-
-You can embed your Spotify activity if you want:
-
-```md
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/lyvtjntbl6akexfyks4p63pkc)
