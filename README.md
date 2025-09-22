@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="https://github.com/RD9541">
-    <img src="https://img.shields.io/github/followers/RD9541?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/ReD9541?label=Followers&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/RD9541?tab=repositories">
-    <img src="https://img.shields.io/github/stars/RD9541?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/ReD9541?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=RD9541&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ReD9541&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ Survey application developed for academic research.
 
 **[RDP541.github.io](https://github.com/RD9541/RDP541.github.io)**  
 My personal portfolio website.  
-**Live:** [Visit Site](https://rdp541.github.io)  
+**Live:** [Visit Site](https://red541.github.io)  
 **Tech:** HTML, CSS, JavaScript
 
 **[Movie_project](https://github.com/RD9541/Movie_project)**  
@@ -81,9 +81,9 @@ A movie listing app consuming TMDB API.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RD9541&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ReD9541&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RD9541&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReD9541&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 </p>
 
 
