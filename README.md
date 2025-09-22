@@ -60,12 +60,8 @@ Survey application developed for academic research.
 
 **[RDP541.github.io](https://github.com/RD9541/RDP541.github.io)**  
 My personal portfolio website.  
-**Live:** [Visit Site](https://red541.github.io)  
+**Live:** [Visit Site](https://red9541.github.io/)  
 **Tech:** HTML, CSS, JavaScript
-
-**[Movie_project](https://github.com/RD9541/Movie_project)**  
-A movie listing app consuming TMDB API.  
-**Tech:** React, TMDB API, CSS
 
 ---
 
