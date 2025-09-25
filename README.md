@@ -48,23 +48,6 @@ Blender, Unity
 
 ---
 
-## Featured Projects
-
-**[ReviewMaker_android](https://github.com/RD9541/ReviewMaker_android)**  
-Android app to automate the collection of Google reviews from users.  
-**Tech:** Kotlin, Firebase, Jetpack Compose
-
-**[ATTBreakSurvey](https://github.com/RD9541/ATTBreakSurvey)**  
-Survey application developed for academic research.  
-**Tech:** Java, Firebase
-
-**[RDP541.github.io](https://github.com/RD9541/RDP541.github.io)**  
-My personal portfolio website.  
-**Live:** [Visit Site](https://red9541.github.io/)  
-**Tech:** HTML, CSS, JavaScript
-
----
-
 ## Currently Exploring
 
 - Advanced Android development with Jetpack Compose and Firebase
